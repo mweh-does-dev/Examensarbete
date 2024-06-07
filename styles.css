@@ -54,6 +54,7 @@ footer {
     .container {
         flex-direction: column;
         align-items: center;
+        margin: 7px;
     }
 
     footer {
@@ -62,7 +63,7 @@ footer {
     
     section {
         padding: 20px;
-        margin: 10px;
+        margin: 7px;
     }
     
     h1 {
